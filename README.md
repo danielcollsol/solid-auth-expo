@@ -16,6 +16,16 @@ This project is being developed as part of a proposal to the [NGI Zero Commons F
 
 ---
 
+## 🌍 About Solid
+
+[Solid](https://solidproject.org/) is a web decentralization project led by Sir Tim Berners-Lee, the inventor of the World Wide Web.  
+
+Solid enables individuals to store their data in **Personal Online Data stores (PODs)** and decide which apps and services can access it. Instead of companies owning user data, Solid gives control back to the people, improving privacy, interoperability, and trust.  
+
+This SDK aims to bring **Solid’s vision of personal data sovereignty** to the **mobile ecosystem**, starting with Expo and React Native developers.  
+
+---
+
 ## 🚀 Roadmap (MVP)
 
 1. **Core Solid login flow** in Expo (OIDC + PKCE + DPoP).  
